@@ -3,7 +3,7 @@ require 'test_helper'
 class UsersProfileTest < ActionDispatch::IntegrationTest
  
   def setup
-    @user = users(:tester)
+    @user = users(:vitaliy)
   end
 
   test "profile display" do

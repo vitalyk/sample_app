@@ -3,7 +3,7 @@ require 'test_helper'
 class MicropostTest < ActiveSupport::TestCase
 
   def setup
-    @user = users(:tester)
+    @user = users(:vitaliy)
     # This code is not idiomatically correct.
     @micropost = @user.microposts.build(content: "Lorem ipsum")  
   end

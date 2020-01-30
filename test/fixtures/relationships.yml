@@ -1,0 +1,15 @@
+one:
+  follower: vitaliy
+  followed: lana
+
+two:
+  follower: vitaliy
+  followed: malory
+
+three:
+  follower: lana
+  followed: vitaliy
+
+four:
+  follower: archer
+  followed: vitaliy
